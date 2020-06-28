@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,OACI,wBAAyB,CACzB,eAAgB,CAChB,aAAc,CACd,iBACJ","file":"main.3a3f2357.chunk.css","sourcesContent":["header{\r\n    background-color: #0C0032;\r\n    text-align: left;\r\n    color: #3500D3;\r\n    padding-left: 10px;\r\n}\r\n\r\n"]}
