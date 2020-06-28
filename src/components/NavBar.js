@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 
-class NavBar extends Component {
-    render() { 
-        return <h1>NavBar</h1>;
-    }
+function NavBar() {
+    return (
+        <header >
+           <h1>Garrett Griffey</h1> 
+           <p>Full Stack Web Development</p>
+        </header>
+    );
 }
+
  
 export default NavBar;
