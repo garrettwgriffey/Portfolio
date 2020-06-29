@@ -3,5 +3,14 @@ header{
     text-align: left;
     color: #3500D3;
     padding-left: 10px;
-}
+};
+
+/* fixed-footer{
+    position: absolute;
+    bottom:0;
+    background-color: #0C0032;
+    text-align: center;
+    color: #3500D3;
+ 
+}; */
 

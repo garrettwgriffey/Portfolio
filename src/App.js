@@ -1,7 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './App.css';
 import NavBar from './components/NavBar';
-import Project from './components/Project'
+import Project from './components/Project';
+import Footer from './components/Footer';
 
 
 function App(){
@@ -9,9 +10,7 @@ function App(){
         <div>
             <NavBar />
             <Project />
-            <p>
-            Garrett Griffey
-            </p>
+            <Footer />
         </div>
     )
 }
