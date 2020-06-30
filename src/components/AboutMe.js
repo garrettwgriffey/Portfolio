@@ -7,9 +7,9 @@ const AboutMe = () => {
                About Me
             </h1>
             <p>lorem loremloremloremloremloremloremloremloremloremloremloremlorem</p>
-            {/* imagehere */}
+            <img src="./assets/images/collage.jpg">
         </div>
     )
-}
+};
 
 export default AboutMe;
