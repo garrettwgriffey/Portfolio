@@ -1,0 +1,39 @@
+[
+    {
+        "title": "project 1",
+        "id": 1,
+        "image": "https://unsplash.com/photos/4Ixxu74o06E",
+        "link": "https://garrettwgriffey.github.io/Portfolio/"
+    },
+    {
+        "title": "project 2",
+        "id": 2,
+        "image": "https://st2.depositphotos.com/3332767/6052/i/950/depositphotos_60527191-stock-photo-senior-man-choking-from-smoke.jpg",
+        "link": "https://garrettwgriffey.github.io/Portfolio/"
+    },
+    {
+        "title": "project 3",
+        "id": 3,
+        "image": "https://unsplash.com/photos/4Ixxu74o06E",
+        "link": "https://garrettwgriffey.github.io/Portfolio/"
+    },
+    {
+        "title": "project 4",
+        "id": 4,
+        "image": "https://unsplash.com/photos/4Ixxu74o06E",
+        "link": "https://garrettwgriffey.github.io/Portfolio/"
+    },
+    {
+        "title": "project 5",
+        "id": 5,
+        "image": "https://unsplash.com/photos/4Ixxu74o06E",
+        "link": "https://garrettwgriffey.github.io/Portfolio/"
+    },
+    {
+        "title": "project 6",
+        "id": 6,
+        "image": "https://unsplash.com/photos/4Ixxu74o06E",
+        "link": "https://garrettwgriffey.github.io/Portfolio/"
+    }
+    
+]
