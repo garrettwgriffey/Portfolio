@@ -1,39 +1,40 @@
 [
     {
-        "title": "project 1",
+        "title": "Template Engine",
         "id": 1,
-        "image": "https://unsplash.com/photos/4Ixxu74o06E",
-        "link": "https://garrettwgriffey.github.io/Portfolio/"
+        "image": "./assets/images/templateEngineSS.jpg",
+        "link": "https://github.com/garrettwgriffey/Template-Engine"
+        
     },
     {
-        "title": "project 2",
+        "title": "Daily Planner",
         "id": 2,
-        "image": "https://st2.depositphotos.com/3332767/6052/i/950/depositphotos_60527191-stock-photo-senior-man-choking-from-smoke.jpg",
-        "link": "https://garrettwgriffey.github.io/Portfolio/"
+        "image": "./assets/images/dailyPlannerSS.jpg",
+        "link": "https://garrettwgriffey.github.io/Daily-Planner/"
     },
     {
-        "title": "project 3",
+        "title": "README Generator",
         "id": 3,
-        "image": "https://unsplash.com/photos/4Ixxu74o06E",
-        "link": "https://garrettwgriffey.github.io/Portfolio/"
+        "image": "./assets/images/readMeSS.png",
+        "link": "https://github.com/garrettwgriffey/README_Generator"
     },
     {
-        "title": "project 4",
+        "title": "Employee Database",
         "id": 4,
-        "image": "https://unsplash.com/photos/4Ixxu74o06E",
-        "link": "https://garrettwgriffey.github.io/Portfolio/"
+        "image": "./assets/images/employeeDbSS.jpg",
+        "link": "https://github.com/garrettwgriffey/Employee-Database"
     },
     {
-        "title": "project 5",
+        "title": "The Hungry Monkey",
         "id": 5,
-        "image": "https://unsplash.com/photos/4Ixxu74o06E",
-        "link": "https://garrettwgriffey.github.io/Portfolio/"
+        "image": "./assets/images/theHungryMonkeySS.jpg",
+        "link": "https://github.com/garrettwgriffey/theHungryMonkey"
     },
     {
         "title": "project 6",
         "id": 6,
-        "image": "https://unsplash.com/photos/4Ixxu74o06E",
-        "link": "https://garrettwgriffey.github.io/Portfolio/"
+        "image": "./assets/images/burgerBuddiesSS.jpg",
+        "link": "https://github.com/garrettwgriffey/Burger-Buddies"
     }
     
 ]
