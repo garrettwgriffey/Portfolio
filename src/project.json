@@ -2,39 +2,38 @@
     {
         "title": "Template Engine",
         "id": 1,
-        "image": "./assets/images/templateEngineSS.jpg",
+        "image": "templateEngineSS.jpg",
         "link": "https://github.com/garrettwgriffey/Template-Engine"
         
     },
     {
         "title": "Daily Planner",
         "id": 2,
-        "image": "./assets/images/dailyPlannerSS.jpg",
+        "image": "dailyPlannerSS.jpg",
         "link": "https://garrettwgriffey.github.io/Daily-Planner/"
     },
     {
         "title": "README Generator",
         "id": 3,
-        "image": "./assets/images/readMeSS.png",
+        "image": "readMeSS.png",
         "link": "https://github.com/garrettwgriffey/README_Generator"
     },
     {
         "title": "Employee Database",
         "id": 4,
-        "image": "./assets/images/employeeDbSS.jpg",
+        "image": "employeeDbSS.jpg",
         "link": "https://github.com/garrettwgriffey/Employee-Database"
     },
     {
         "title": "The Hungry Monkey",
         "id": 5,
-        "image": "./assets/images/theHungryMonkeySS.jpg",
+        "image": "theHungryMonkeySS.jpg",
         "link": "https://github.com/garrettwgriffey/theHungryMonkey"
     },
     {
-        "title": "project 6",
+        "title": "Burger Buddies",
         "id": 6,
-        "image": "./assets/images/burgerBuddiesSS.jpg",
+        "image": "burgerBuddiesSS.jpg",
         "link": "https://github.com/garrettwgriffey/Burger-Buddies"
     }
-    
 ]

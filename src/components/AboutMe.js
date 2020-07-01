@@ -7,7 +7,7 @@ const AboutMe = () => {
                About Me
             </h1>
             <p>lorem loremloremloremloremloremloremloremloremloremloremloremlorem</p>
-            <img src="./assets/images/collage.jpg" alt="" />
+            <img src={require(`../images/collage.jpg`)} alt="Garrett Griffey"/>
         </div>
     )
 };
