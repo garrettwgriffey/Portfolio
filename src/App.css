@@ -3,7 +3,7 @@ header{
     text-align: left;
     color: #3500D3;
     padding-left: 10px;
-};
+}
 
 footer{
     position: absolute;
@@ -12,15 +12,20 @@ footer{
     text-align: center;
     color: #3500D3;
  
-};
+}
 
 .collage{
     width: 50rem;
-    height:50rem;
-};
+    height:18rem;
+}
 
-.card{
-    float: right;
-};
+.flexContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body{
+    background-color: #3500d3;
+}
 
 

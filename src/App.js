@@ -3,7 +3,6 @@ import NavBar from './components/NavBar';
 import Project from './components/Project';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
-import Logo from './images/logo.png';
 import './App.css';
 
 export default function App(){
@@ -12,7 +11,7 @@ export default function App(){
             <NavBar />
             <AboutMe />
             <Project />
-            {/* <Logo /> */}
+            <img src='./images/logo.png' />
             <Footer />
         </div>
     )

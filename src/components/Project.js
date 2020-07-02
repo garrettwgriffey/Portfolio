@@ -5,7 +5,7 @@ import Card from './Card';
 
 export default function Project() {
     return (
-        <div>
+        <div className="flexContainer">
             {cards.map(obj => (
                 <Card 
                 title={obj.title}
