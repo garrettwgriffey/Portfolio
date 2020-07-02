@@ -1,6 +1,6 @@
 import React from 'react';
 
-function NavBar() {
+export default function NavBar() {
     return (
         <header >
            <h1>Garrett Griffey</h1> 
@@ -10,4 +10,3 @@ function NavBar() {
 }
 
  
-export default NavBar;

@@ -1,21 +1,21 @@
 import React from 'react';
-import './App.css';
 import NavBar from './components/NavBar';
 import Project from './components/Project';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
-import Card from './components/Card';
+import Logo from './images/logo.png';
+import './App.css';
 
-
-function App(){
+export default function App(){
     return (
         <div>
             <NavBar />
             <AboutMe />
             <Project />
+            {/* <Logo /> */}
             <Footer />
         </div>
     )
 }
 
-export default App;
+

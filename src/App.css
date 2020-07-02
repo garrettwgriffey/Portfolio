@@ -5,12 +5,22 @@ header{
     padding-left: 10px;
 };
 
-/* fixed-footer{
+footer{
     position: absolute;
     bottom:0;
     background-color: #0C0032;
     text-align: center;
     color: #3500D3;
  
-}; */
+};
+
+.collage{
+    width: 50rem;
+    height:50rem;
+};
+
+.card{
+    float: right;
+};
+
 
