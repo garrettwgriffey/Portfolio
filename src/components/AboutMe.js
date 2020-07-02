@@ -1,15 +1,18 @@
 import React from 'react';
 import '../App.css';
+import profilePicture from '../images/collage.jpg';
 
-const AboutMe = () => {
+function AboutMe () {
     return (
-        <div className='About-Me'>
-            <h1>
-               About Me
-            </h1>
-            <p>Welcome to my portfolio! I am a skilled full-stack web developer, creative, and enthusiast. Below you will find some of my work and my resume. Hire me for your next web development project!</p>
-            <img src={require(`../images/collage.jpg`)} className='collage' style={{width: "18rem"}} alt='Garrett Griffey'/>
-        </div>
+        <>
+        <div className="container" id="about">
+            <div className="media w3-black">
+            <img src={profilePicture} className="img" alt="Profile" />
+          <div className="media-body">             <p>Welcome to my portfolio! I am a skilled full-stack web developer, creative, and enthusiast. Below you will find some of my work and my resume. Hire me for your next web development project!</p> 
+            </div> 
+          </div> 
+          </div>
+        </>
     )
 };
 

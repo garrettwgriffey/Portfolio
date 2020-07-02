@@ -4,16 +4,18 @@ import Project from './components/Project';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
 import './App.css';
+import Wrapper from './components/Wrapper';
 
 export default function App(){
     return (
-        <div>
+        <>
             <NavBar />
+            <Wrapper >
             <AboutMe />
             <Project />
-            <img src='./images/logo.png' />
+            </Wrapper>
             <Footer />
-        </div>
+        </>
     )
 }
 
