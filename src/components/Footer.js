@@ -6,18 +6,12 @@ export default function Footer() {
         <footer >
            <div className="languages">
 <ul className="list-unstyled displayUnder">
-  <i className="fab fa-html5 fa-3x lng"></i>
-  <span>HTML</span>
-  <i className="fab fa-js-square fa-3x lng"></i>
-  <span className="displayUnder">JavaScript</span>{" "}
-  <i className="fab fa-css3-alt fa-3x lng"></i>{" "}
-  <span className="displayUnder">CSS</span>{" "}
-  <i className="fab fa-react fa-3x lng"></i>{" "}
-  <span className="displayUnder">React</span>{" "}
-  <i className="fab fa-npm fa-3x lng"></i>{" "}
-  <span className="displayUnder">NPM</span>{" "}
-  <i className="fab fa-node fa-3x lng"></i>{" "}
-  <span className="displayUnder">Node</span>{" "}
+  <i className="fab fa-html5 fa-2x"></i>
+  <i className="fab fa-js-square fa-2x"></i>{" "}
+  <i className="fab fa-css3-alt fa-2x"></i>{" "}{" "}
+  <i className="fab fa-react fa-2x"></i>{" "}{" "}
+  <i className="fab fa-npm fa-2x"></i>{" "}{" "}
+  <i className="fab fa-node fa-2x"></i>{" "}{" "}
 </ul>
 </div>
            <h5>Made by Garrett Griffey</h5>

@@ -1,8 +1,7 @@
 header{
     background-color: #0C0032;
-    text-align: left;
-    color: #3500D3;
-    padding-left: 10px;
+    text-align: center;
+    color: white;
 }
 
 footer{
@@ -12,7 +11,11 @@ footer{
     width: 100%;
     background-color: #0C0032;
     text-align: center;
-    color: #3500D3;
+    color: white;
+}
+
+.fab{
+    margin-right: 10px;
 }
 
 .collage{
@@ -35,7 +38,7 @@ body{
   }
 
 .card{
-    margin: 20px;
+    margin: 50px;
 }
 
 #about{
